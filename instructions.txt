@@ -1,0 +1,13 @@
+INSTRUCTIONS FOR UPLOADS:
+
+1) Each solution you provide should be packed in a single file named following such convention: "p[ProblemSetNumber]-ex[ExerciseNumber]". NB: brackets must be omitted, use just one digit number in the filename -> es:  p1-ex1  (for solution to exercise n1 of problem set n.1)
+
+2)Ideally, the file should contain two parts: a pc-written description of your solution, and an handwritten part (if necessary). You can use any word processor (es: MS-WORD) or markup language (es: LaTEX) to build the file. Any file format could work, but if possible upload the solution using .pdf extension.
+
+3) Try to explain clearly your solution, keep in mind that the solution you've proposed might seem to be intuitive or natural to you, but it might not be for some one else.
+
+4) To upload the solution, just  fork the Repo on GitHub, then clone the repo on your local machine (using git clone command) then locally create a new branch (git branch branchName) and checkout to this branch (using git checkout branchName). NB: it would be convenient at this point, to add the remote origin
+
+Then Drag and drop (or make new file) solution in the current folder (working on the local repo). When you've finished, stage and commit the files (use git add .) (git commit - m "small comment"), then push to the remote repo (use git push remoteOrigin branchName). Then go on GitHub, a pull request popup will appear, click on it to submit your pull request.
+
+NB: If someone encounters issues in the uploading process or using git, please send your solution by mail/or using your favourite messaging app to your class representative. I will manually upload the solution, clearly credits are yours, and will be reported in the repo. 
