@@ -42,7 +42,7 @@ p8-ex8: GIOSUÈ CASTELLANO
 
 
 [Missings: p1-ex5, p2-ex2, p3-ex1, p3-ex2, p3-ex3, p3-ex4, p3-ex5, 
-p3-ex6 (anna tiso), p4-ex3 (anna tiso), p6-ex3 (joel kim), p7-ex3 (anna tiso), 
-p7-ex4, p7-ex5, p7-ex6 (mert), p7-ex7 (mert) , p7-ex6 (mert)
+p3-ex6, p4-ex3, p6-ex3, p7-ex3, 
+p7-ex4, p7-ex5, p7-ex6, p7-ex7, p7-ex6
 
  
